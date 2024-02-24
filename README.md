@@ -2,12 +2,12 @@
 
 ## 基本信息
 
-称呼：朱某
-性别：男
-年龄：保密
-邮箱：zhuxu@zhuxu.xyz
-博客：https://blog.zhuxu.xyz/
-Gitee：https://gitee.com/zhuxucy/
+称呼：朱某<br>
+性别：男<br>
+年龄：保密<br>
+邮箱：zhuxu@zhuxu.xyz<br>
+博客：https://blog.zhuxu.xyz/<br>
+Gitee：https://gitee.com/zhuxucy/<br>
 github：https://github.com/zhumou123/
 
 ## 专业技能
