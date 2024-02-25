@@ -19,7 +19,7 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://blog.zhuxu.xyz/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
