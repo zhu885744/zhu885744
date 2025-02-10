@@ -17,17 +17,6 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
   
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://blog.zhuxu.xyz/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href=""><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/702407192"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href=""><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href=""><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-  </div>
-  
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -39,23 +28,16 @@
 
 #  🙋 Hello
 
-<table>
-  
-<tr><td>
+### 关于我
+我！性别男！爱好女~<br>
+会去自学自己感兴趣的东西；<br>
+我的网名叫不语你也可以叫我小朱或~~朱旭~~？<br>
+出生于安徽滁州,是一名普通的不能在普通的职校学生。
 
-### 🤺 About Me
-
-![12ekxzs_7.webp](https://cdn.zhuxu.xyz/img/12ekxzs_7.webp)
-
-## 基本信息
-
-称呼：朱某<br>
-性别：男<br>
-年龄：保密<br>
-邮箱：zhuxu@zhuxu.xyz<br>
-博客：https://blog.zhuxu.xyz/<br>
-Gitee：https://gitee.com/zhuxucy/<br>
-github：https://github.com/zhumou123/
+### 联系方式
+QQ：2776686748（注明来意）<br>
+微信：zhu885744（注明来意）<br>
+邮箱：xz@zhuxu.asia（注明来意）
 
 ## 专业技能
 
