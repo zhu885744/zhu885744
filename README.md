@@ -1,51 +1,17 @@
-<div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://blog.zhuxu.xyz/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝您今天愉快!&center=true&size=27" />
-    </a>
-  </div>
-
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-  
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
-
-</div>
-
 #  🙋 Hello
 
 ### 关于我
 我！性别男！爱好女~<br>
-会去自学自己感兴趣的东西；<br>
+精通Windows、Mac os、Linux等操作系统设备的开机与关机；
+擅长Python、JavaScript、Java、c#、PHP、c++的朗读与拼写；
+略懂Nginx、PHP、MySQL的安装与卸载；
 我的网名叫不语你也可以叫我小朱或~~朱旭~~？<br>
-出生于安徽滁州,是一名普通的不能在普通的职校学生。
+出生于安徽滁州,一名爱折腾的计算机爱好者，喜欢研究各种技术。
 
 ### 联系方式
 QQ：2776686748（注明来意）<br>
 微信：zhu885744（注明来意）<br>
 邮箱：xz@zhuxu.asia（注明来意）
-
-## 专业技能
-
-能够简单掌握 HTML、CSS、JavaScript 进行 PC 端/移动端网站开发<br>
-能够熟练掌握综合网络布线各项项目。<br>
-能够掌握 Linux、windows、的开机与关机。<br>
-熟悉网站搭建流程、网站性能优化、网站 SEO 优化、CDN 等技术。
-
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -56,14 +22,14 @@ QQ：2776686748（注明来意）<br>
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
   
 🧠 计划学习
 
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
 ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
