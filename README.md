@@ -2,10 +2,10 @@
 
 ### 关于我
 我！性别男！爱好女~<br>
-精通Windows、Mac os、Linux等操作系统设备的开机与关机；
-擅长Python、JavaScript、Java、c#、PHP、c++的朗读与拼写；
-略懂Nginx、PHP、MySQL的安装与卸载；
-我的网名叫不语你也可以叫我小朱或~~朱旭~~？<br>
+精通Windows、Mac os、Linux等操作系统设备的开机与关机；<br>
+擅长Python、JavaScript、Java、c#、PHP、c++的朗读与拼写；<br>
+略懂Nginx、PHP、MySQL的安装与卸载；<br>
+我的网名叫不语你也可以叫我小朱或~~朱旭~~？<br><br>
 出生于安徽滁州,一名爱折腾的计算机爱好者，喜欢研究各种技术。
 
 ### 联系方式
